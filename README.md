@@ -7,7 +7,7 @@ Just use "br with <>" to break the sentence while uploading data.
 
 # LINK TO THE WEBSITE
  
- [CLICK HERE](https://sanskar153.github.io/Resume-Generator/)
+ [CLICK HERE](https://sanskar153.github.io/Resume-Builder/)
 
 # Screenshots
 
